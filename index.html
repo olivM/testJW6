@@ -1,0 +1,28 @@
+<html>
+
+<head>
+
+<script type="text/javascript" src="jwplayer.js" ></script>
+<script type="text/javascript">jwplayer.key="lFJTBMxRRo3q9nUpvbCUTPN9aGYsX2IxMwnYXQ==";</script>
+
+</head>
+
+<body>
+
+    <p>
+        <div id="container"></div>
+    </p>
+    <script>
+    jwplayer("container").setup({
+        image: "http://content.bitsontherun.com/thumbs/i8oQD9zd-640.jpg",
+        file: "http://content.bitsontherun.com/videos/i8oQD9zd-kNspJqnJ.mp4",
+        related: {
+            file: "jw6-related.xml",
+            onclick: "link"
+        }
+    });
+    </script>
+
+</body>
+
+</html>

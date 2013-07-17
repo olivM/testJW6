@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <item>
+      <title>Big Buck Bunny</title>
+      <link>http://www.bigbuckbunny.org/</link>
+      <media:content url="http://content.bitsontherun.com/videos/bkaovAYt-kNspJqnJ.mp4" />
+      <media:thumbnail url="http://content.bitsontherun.com/thumbs/bkaovAYt-640.jpg" />
+      <guid isPermalink="false">bkaovAYt</guid>
+    </item>
+    <item>
+      <title>Elephants Dream</title>
+      <link>http://www.elephantsdream.org/</link>
+      <media:content url="http://content.bitsontherun.com/videos/kaUXWqTZ-kNspJqnJ.mp4" />
+      <media:thumbnail url="http://content.bitsontherun.com/thumbs/kaUXWqTZ-640.jpg" />
+      <guid isPermalink="false">kaUXWqTZ</guid>
+    </item>
+    <item>
+      <title>Sintel</title>
+      <link>http://www.sintel.org/</link>
+      <media:content url="http://content.bitsontherun.com/videos/3XnJSIm4-kNspJqnJ.mp4" />
+      <media:thumbnail url="http://content.bitsontherun.com/thumbs/3XnJSIm4-640.jpg" />
+      <guid isPermalink="false">3XnJSIm4</guid>
+    </item>
+    <item>
+      <title>Tears of Steel</title>
+      <link>http://www.tearsofsteel.org</link>
+      <media:content url="http://content.bitsontherun.com/videos/i8oQD9zd-kNspJqnJ.mp4" />
+      <media:thumbnail url="http://content.bitsontherun.com/thumbs/i8oQD9zd-640.jpg" />
+      <guid isPermalink="false">i8oQD9zd</guid>
+    </item>
+  </channel>
+</rss>
